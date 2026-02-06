@@ -1,9 +1,5 @@
 # 💫 About Me:
-Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovakia and happily based in Denmark<br><br>My Tech Stack 👩‍💻<br>💬 Languages: Java, JavaScript/TypeScript, Python, C#<br>🧰 Tools & Frameworks: <br>**Frontend**<br>- React  <br>- Next.js  <br>- Tailwind CSS  <br><br>**Backend**<br>- Node.js  <br>- Express  <br>- REST APIs<br>🎨 Prototyping & Design: Adobe Creative Cloud, Figma, Canvas<br><br>GitHub Stats<br><br>Interests<br>Prompt engineering, cryptography, cybersecurity<br><br>🌅 When I Sign Off<br>📖 Books  <br>🏹 Archery <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Viktória Hricišáková) 
+Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovakia and happily based in Denmark<br><br>Interests<br>Prompt engineering, cryptography, cybersecurity<br><br>🌅 When I Sign Off<br>📖 Books  <br>🏹 Archery <br> 
 
 # 💻 Tech Stack
 ## 💬 Languages
@@ -32,15 +28,5 @@ Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovaki
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ToryHricisakova&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ToryHricisakova&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToryHricisakova&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ToryHricisakova&theme=rose&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ToryHricisakova&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Find Me on LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Viktória Hricišáková)
