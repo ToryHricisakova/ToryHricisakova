@@ -6,7 +6,7 @@ Hi, I'm Viktória ✨
 <li>I've got a degree in Business, Sales, and Marketing and just finished my Master's degree in Software Design at IT University of Copenhagen.
 <li> My specialization focus is on web development and cybersecurity, with a splash of cryptography.
 <li> I love OOP and keep learning new languages whenever possible.
-<bli> I am interested in cybersecurity, but my heart still lies with creative full-stack development.
+<li> I am interested in cybersecurity, but my heart still lies with creative full-stack development.
 </ul>
 
 **What I Do When I Sign Off**
