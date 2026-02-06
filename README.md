@@ -1,10 +1,9 @@
 # 💫 About Me
 Hi, I'm Viktória ✨
-
-<br>🇸🇰🇩🇰 I am a Software Developer born in Slovakia who proudly calls Copenhagen a HOME.
+<br>I am a Software Developer born in Slovakia who proudly calls Copenhagen a HOME. 🇸🇰🇩🇰
 
 <ul>
-<li>👩‍💻 I've got a degree in Business, Sales, and Marketing and just finished my Master's degree in Software Design at IT University of Copenhagen.
+<li>I've got a degree in Business, Sales, and Marketing and just finished my Master's degree in Software Design at IT University of Copenhagen.
 <li> My specialization focus is on web development and cybersecurity, with a splash of cryptography.
 <li> I love OOP and keep learning new languages whenever possible.
 <bli> I am interested in cybersecurity, but my heart still lies with creative full-stack development.
@@ -23,8 +22,6 @@ Hi, I'm Viktória ✨
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
