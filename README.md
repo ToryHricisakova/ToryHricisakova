@@ -1,6 +1,15 @@
 # 💫 About Me:
 Hi, I'm Viktória ✨
-<br>🇸🇰🇩🇰 Software Developer born in Slovakia and happily based in Copenhagen<br><br>**Interests**<br>Prompt engineering, cryptography, cybersecurity<br><br>🌅 
+
+<br>🇸🇰🇩🇰 I am a Software Developer born in Slovakia who proudly calls Copenhagen a HOME.
+
+<br>👩‍💻 I've got a degree in Business, Sales, and Marketing and just finished my Master's degree in Software Design at IT University of Copenhagen.
+
+<br> My specialization focus is on web development and cybersecurity, with a splash of cryptography.
+
+<br> I love OOP and keep learning new languages whenever possible.
+
+<br> I am interested in cybersecurity, but my heart still lies with creative full-stack development.
 
 **What I Do When I Sign Off**
 <br>📖 Books 
