@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovakia and happily based in Denmark<br><br>Interests<br>Prompt engineering, cryptography, cybersecurity<br><br>🌅 When I Sign Off<br>📖 Books  <br>🏹 Archery <br> 
+Hi, I'm Viktória ✨
+<br>🇸🇰🇩🇰 Software Developer born in Slovakia and happily based in Copenhagen<br><br>**Interests**<br>Prompt engineering, cryptography, cybersecurity<br><br>🌅 
+
+**What I Do When I Sign Off**
+<br>📖 Books 
+<br>🏹 Archery
 
 # 💻 Tech Stack
 ## 💬 Languages
@@ -28,5 +33,5 @@ Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovaki
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## 🌐 Find Me on LinkedIn:
+### 🌐 Find Me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Viktória Hricišáková)
