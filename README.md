@@ -10,3 +10,7 @@ Hi, I'm Viktória ✨<br><br>🇸🇰🇩🇰 Software Developer born in Slovaki
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToryHricisakova&theme=rose)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToryHricisakova&theme=rose)
+
+# 📊 Language Usage
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToryHricisakova&layout=compact&theme=rose&hide_border=true)
